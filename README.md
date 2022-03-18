@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/rafael-batista-ferreira-10529a234/
 
 <!---
 PacocasMultiplas/PacocasMultiplas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
