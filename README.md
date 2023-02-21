@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PacocasMultiplas and i'm a dev junior looking for opportunities of work and studies.
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Python and C
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in back-end development
+- 🌱 I’m currently learning Django, HTML/CSS/JS and SQL
 - 📫 How to reach me https://www.linkedin.com/in/rafael-batista-ferreira-10529a234/
 
 <!---
